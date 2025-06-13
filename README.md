@@ -1,7 +1,7 @@
 # Hi there 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Suraj+Sharma;Full+Stack+Developer;DevOps+Enthusiast" alt="Welcome Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Suraj;Full+Stack+Developer;DevOps+Enthusiast" alt="Welcome Banner" />
 
-I am Suraj, a Full Stack Developer from 🇮🇳 passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience. 🎯
+I am Suraj, a passionate Full Stack Developer from 🇮🇳 eager to kickstart my career in software development. I am enthusiastic about learning and building production-ready applications. 🎯
 
 <p align="center">
   <img src="assets/banner.gif" alt="Suraj Shedge Banner"/>
