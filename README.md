@@ -1,85 +1,88 @@
-# Hi there 👋  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Suraj;Full+Stack+Developer;DevOps+Enthusiast" alt="Typing Banner" />
+# Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Suraj;Full+Stack+Developer;DevOps+Enthusiast" alt="Welcome Banner" />
+
+I am Suraj, a passionate Full Stack Developer from 🇮🇳 eager to kickstart my career in software development. I am enthusiastic about learning and building production-ready applications. 🎯
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Suraj Shedge Banner" width="100%"/>
+  <img src="assets/banner.gif" alt="Suraj Shedge Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Suraj Shedge</h1>
 
 <p align="center">
-  🚀 Computer Engineering Graduate | 💻 Java Developer | 📚 Currently learning .NET & C# <br>
+  🚀 Computer Engineering Graduate | 💻 Java Developer | 📚 Currently learning .NET & C#<br>
   Passionate about building secure, scalable, and real-world software solutions!
 </p>
+
+I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud based technologies. 🚀
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages & Frameworks
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title="ASP.NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>
+#### Languages & Frameworks
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 </p>
 
-#### 🧪 DevOps & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" title="Postman" alt="Postman" width="60" height="60"/>
+#### DevOps & Tools
+<p align="left">
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="CI/CD" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
-#### 🗄️ Database & Cloud
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure (Learning)" alt="Azure" width="60" height="60"/>
+#### Database & Cloud
+<p align="left">
+  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Completed B.E. in Computer Engineering from DY Patil SOET, Pune  
-- 💼 Former Java Developer Intern @ Novilex Technology  
-- 🏥 Built **MedicoCare Hospital Nexus** – a full-stack hospital management system  
-- 🛠️ Currently learning **.NET Framework**, **C#**, and building enterprise-level apps  
-- 📫 Contact me: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)  
+- 🎓 Completed B.E. in Computer Engineering from DY Patil SOET, Pune
+- 💼 Former Java Developer Intern @ Novilex Technology
+- 🏥 Built **MedicoCare Hospital Nexus** – a full-stack hospital management system
+- 🛠️ Currently learning **.NET Framework**, **C#**, and building full-stack enterprise-level apps
+- 📫 Contact me: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajs41&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajs41&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=surajs41&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajs41&theme=tokyonight" />
 </p>
-
----
-
-### ⚡ Projects Highlight
-
-- 🏥 **MedicoCare Hospital Nexus** – Hospital management system with admin, user, and doctor panels, billing, prescription & appointments  
-- 🛵 **Online Bike Rental System** – Integrated email alerts & secure booking system  
-- 🎟️ **Railway Ticket Booking System** – Clean UI + error-handled real-time ticketing  
-- 🧠 **Face Detection System** – Smart recognition system for lost persons & criminals  
 
 ---
 
 ### 📫 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/suraj-shedge-352327217](https://linkedin.com/in/suraj-shedge-352327217)  
+- 🔗 LinkedIn: [linkedin.com/in/suraj-shedge-352327217](https://linkedin.com/in/suraj-shedge-352327217)
 - 📧 Email: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)
 
 ---
 
-<p align="center">Let's connect and build something amazing! 🌐</p>
+### ⚡ Projects Highlight
+
+- 🏥 **MedicoCare Hospital Nexus** – Hospital management system with admin, user, and doctor panels, billing, prescription & appointments.
+- 🛵 **Online Bike Rental System** – Integrated email alerts & secure booking system.
+- 🎟️ **Railway Ticket Booking System** – Clean UI + error-handled real-time ticketing.
+- 🧠 **Face Detection System** – Smart recognition system for lost persons & criminals.
+
+---
+
+<p align="center">Let's connect and build something amazing! 🌐</p> 
