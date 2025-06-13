@@ -34,18 +34,18 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 
 #### DevOps & Tools
 <p align="left">
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="CI/CD" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://about.gitlab.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="CI/CD" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://about.gitlab.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/></a>&nbsp;&nbsp;
 </p>
 
 #### Database & Cloud
 <p align="left">
-  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://www.sqlite.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
