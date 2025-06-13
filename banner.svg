@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background with gradient -->
+    <defs>
+        <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0a192f;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#112240;stop-opacity:1" />
+        </linearGradient>
+        
+        <!-- Glow effect -->
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="url(#bg-gradient)"/>
+
+    <!-- Decorative elements -->
+    <circle cx="200" cy="150" r="100" fill="#64ffda" opacity="0.1"/>
+    <circle cx="1080" cy="150" r="100" fill="#64ffda" opacity="0.1"/>
+
+    <!-- Main text -->
+    <text x="640" y="120" font-family="Arial, sans-serif" font-size="48" fill="#64ffda" text-anchor="middle" filter="url(#glow)">
+        Hello, I'm Suraj
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="640" y="180" font-family="Arial, sans-serif" font-size="32" fill="#8892b0" text-anchor="middle">
+        Java | Spring Boot | .NET Developer
+    </text>
+
+    <!-- GitHub username -->
+    <text x="640" y="240" font-family="Arial, sans-serif" font-size="24" fill="#64ffda" text-anchor="middle">
+        @surajs41
+    </text>
+
+    <!-- Decorative lines -->
+    <line x1="440" y1="140" x2="840" y2="140" stroke="#64ffda" stroke-width="2" opacity="0.3"/>
+    <line x1="440" y1="200" x2="840" y2="200" stroke="#64ffda" stroke-width="2" opacity="0.3"/>
+</svg> 
