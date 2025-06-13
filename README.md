@@ -13,9 +13,9 @@ I am Suraj, a passionate Full Stack Developer from 🇮🇳 eager to kickstart m
   🚀 Computer Engineering Graduate | 💻 Java Developer | 📚 Currently learning .NET & C#<br>
   Passionate about building secure, scalable, and real-world software solutions!
 </p>
-
+<p align="center">
 I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud based technologies. 🚀
-
+</p>
 ---
 
 ### 🛠️ Tech Stack
