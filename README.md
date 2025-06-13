@@ -1,8 +1,8 @@
 # Hi there 👋
-<p align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?
 font=Fira+Code&weight=500&size=35&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Suraj;Full+Stack+Java+Developer;DevOps+Enthusiast" alt="Welcome Banner" />
-</p>
+
 
 I am Suraj, a passionate Full Stack Developer from 🇮🇳 eager to kickstart my career in software development. I am enthusiastic about learning and building production-ready applications. 🎯
 
