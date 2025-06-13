@@ -25,7 +25,7 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="80" height="80"/></a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original-wordmark.svg" alt="ASP.NET" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreeicons.io%2Ffree-logos%2Fasp-net-logo-network-icon-12829&psig=AOvVaw1Vcftjwgd7uCcEfgQf5Rnk&ust=1749892853333000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCv8oKJ7o0DFQAAAAAdAAAAABAK)" alt="ASP.NET" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,15 +57,6 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 - 🏥 Built **MedicoCare Hospital Nexus** – a full-stack hospital management system
 - 🛠️ Currently learning **.NET Framework**, **C#**, and building full-stack enterprise-level apps
 - 📫 Contact me: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajs41&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajs41&theme=tokyonight" />
-</p>
 
 ---
 
