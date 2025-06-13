@@ -22,30 +22,30 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 
 #### Languages & Frameworks
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/java-logo-396-transparent.gif" alt="Java" width="60" height="60"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/c-sharp-programming-language-6432326-transparent.gif" alt="C#" width="60" height="60"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/spring-boot-4330232-transparent.gif" alt="Spring Boot" width="60" height="60"/></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/dotnet-6516268-transparent.gif" alt="ASP.NET" width="60" height="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/html5-logo-2341-transparent.gif" alt="HTML5" width="60" height="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/css-logo-2341-transparent.gif" alt="CSS3" width="60" height="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/javascript-logo-396-transparent.gif" alt="JavaScript" width="60" height="60"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/react-js-6516268-transparent.gif" alt="React" width="60" height="60"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="60"/></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original-wordmark.svg" alt="ASP.NET" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/></a>
 </p>
 
 #### DevOps & Tools
 <p align="left">
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/cicd-pipeline-5806490-transparent.gif" alt="CI/CD" width="60" height="60"/></a>
-  <a href="https://about.gitlab.com" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/gitlab-logo-396-transparent.gif" alt="GitLab" width="60" height="60"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/git-logo-396-transparent.gif" alt="Git" width="60" height="60"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/docker-logo-396-transparent.gif" alt="Docker" width="60" height="60"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/postman-logo-396-transparent.gif" alt="Postman" width="60" height="60"/></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/linux-logo-396-transparent.gif" alt="Linux" width="60" height="60"/></a>
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="CI/CD" width="60" height="60"/></a>
+  <a href="https://about.gitlab.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="60" height="60"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/></a>
 </p>
 
 #### Database & Cloud
 <p align="left">
-  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/mysql-database-11903635-transparent.gif" alt="MySQL" width="60" height="60"/></a>
-  <a href="https://www.sqlite.org" target="_blank"><img src="https://cdn.iconscout.com/lottie/animations/sqlite-14102635-transparent.gif" alt="SQLite" width="60" height="60"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/></a>
 </p>
 
 ---
