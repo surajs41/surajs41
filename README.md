@@ -16,7 +16,6 @@ I am Suraj, a passionate Full Stack Developer from 🇮🇳 eager to kickstart m
 <p align="center">
 I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud based technologies. 🚀
 </p>
----
 
 ### 🛠️ Tech Stack
 
