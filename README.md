@@ -60,14 +60,6 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajs41&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajs41&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
@@ -78,10 +70,9 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 
 ### ⚡ Projects Highlight
 
-- 🏥 **MedicoCare Hospital Nexus** – Hospital management system with admin, user, and doctor panels, billing, prescription & appointments.
-- 🛵 **Online Bike Rental System** – Integrated email alerts & secure booking system.
-- 🎟️ **Railway Ticket Booking System** – Clean UI + error-handled real-time ticketing.
-- 🧠 **Face Detection System** – Smart recognition system for lost persons & criminals.
+- 🏥 **MedicoCare Hospital Nexus** – Hospital management system with admin, user, and doctor panels, billing, prescription & appointments. [https://medflow-hospital-nexus.vercel.app/]
+- 🛵 **Online Bike Rental System** – Integrated email alerts & secure booking system. [https://ride-easy-rental.vercel.app/]
+- 🧠 **FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals** – Smart recognition system for lost persons & criminals. [https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals]
 
 ---
 
