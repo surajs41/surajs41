@@ -15,16 +15,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Completed B.E. in Computer Engineering from DY Patil SOET, Pune
-- 💼 Former Java Developer Intern @ Novilex Technology
-- 🏥 Built **MedicoCare Hospital Nexus** – a full-stack hospital management system
-- 🛠️ Currently learning **.NET Framework**, **C#**, and building full-stack enterprise-level apps
-- 📫 Contact me: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)
-
----
-
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
@@ -51,6 +41,16 @@
   <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Completed B.E. in Computer Engineering from DY Patil SOET, Pune
+- 💼 Former Java Developer Intern @ Novilex Technology
+- 🏥 Built **MedicoCare Hospital Nexus** – a full-stack hospital management system
+- 🛠️ Currently learning **.NET Framework**, **C#**, and building full-stack enterprise-level apps
+- 📫 Contact me: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)
 
 ---
 
