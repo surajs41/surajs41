@@ -10,8 +10,9 @@ I am Suraj, a passionate Full Stack Developer from 🇮🇳 eager to kickstart m
 <h1 align="left">Hi there 👋, I'm Suraj Shedge</h1>
 
 <p align="left">
-  🚀 Computer Engineering Graduate | 💻 Java Developer | 📚 Currently learning .NET & C#<br>
-  Passionate about building secure, scalable, and real-world software solutions!
+  🚀 Computer Engineering Graduate | 💻 Full Stack Developer (React, Node.js, PostgreSQL) | 🤖 AI/ML Data Operations Associate  
+Working on full stack applications and Generative AI workflows (LLM, Prompt Engineering)  
+Interested in building scalable and real-world solutions
 </p>
 
 I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud based technologies. 🚀
