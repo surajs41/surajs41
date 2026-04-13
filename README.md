@@ -15,7 +15,7 @@ Working on full stack applications and Generative AI workflows (LLM, Prompt Engi
 Interested in building scalable and real-world solutions
 </p>
 
-I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud based technologies. 🚀
+I mostly work on full stack web development using React.js, Node.js and PostgreSQL, along with AI/ML data operations, Generative AI concepts, and basic cloud technologies. 🚀
 
 ---
 
