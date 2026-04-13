@@ -50,10 +50,14 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 
 ### 👨‍💻 About Me
 
-- 🎓 Completed B.E. in Computer Engineering from DY Patil SOET, Pune
-- 💼 Former Java Developer Intern @ Novilex Technology
-- 🏥 Built **MedicoCare Hospital Nexus** – a full-stack hospital management system
-- 🛠️ Currently learning **.NET Framework**, **C#**, and building full-stack enterprise-level apps
+### 👨‍💻 About Me
+
+- 🎓 Completed B.E. in Computer Engineering from DY Patil SOET, Pune  
+- 💼 AI/ML Data Operations Associate @ Zensar Technologies  
+- 💼 Former Java Developer Intern @ Novilex Technology  
+- 🛠️ Currently building full stack applications using React.js, Node.js and PostgreSQL  
+- 🤖 Working with Generative AI concepts like LLM and Prompt Engineering  
+- 📊 Interested in working with data and building data-driven solutions  
 - 📫 Contact me: [surajshedge3315@gmail.com](mailto:surajshedge3315@gmail.com)
 
 ---
@@ -66,7 +70,7 @@ I mostly work with Java, C#.NET ,SpringBoot, ASP.NET MVC Frameworks and Cloud ba
 ---
 
 ### ⚡ Projects Highlight
-
+- 📊 **Job Market Analysis** – Data analysis project using Python and Power BI to identify job trends and required skills.
 - 🏥 **MedicoCare Hospital Nexus** – Hospital management system with admin, user, and doctor panels, billing, prescription & appointments.
 - 🛵 **Online Bike Rental System** – Integrated email alerts & secure booking system.
 - 🎟️ **Railway Ticket Booking System** – Clean UI + error-handled real-time ticketing.
