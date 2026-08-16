@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Suraj%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20GenAI%20Data%20Operations%20%7C%20LLM%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Suraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20GenAI%20Data%20Operations%20|%20LLM%20and%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=AI+%2F+GenAI+Data+Operations+Associate;LLM+Evaluation+%7C+Prompt+Engineering;LangChain+%2B+LangGraph+Agentic+Workflows;Building+Real-World+Data+%26+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=AI+%2F+GenAI+Data+Operations+Associate;LLM+Evaluation+%7C+Prompt+Engineering;LangChain+%2B+LangGraph+Agentic+Workflows;Building+Real-World+Data+and+AI+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -37,11 +37,11 @@
 
 **AI / GenAI / LLM**
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv3-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Groq%20Llama%203.3-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv3-000000?style=flat-square"/>
 
 **Data Engineering**
 <br/>
-<img src="https://skillicons.dev/icons?i=kafka,airflow,postgres,docker&theme=dark" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=kafka,airflow,postgres,docker&theme=dark" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 **Backend & Web**
 <br/>
@@ -57,24 +57,37 @@
 
 ### ⚡ Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/surajs41/Agentic-AI-Chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=surajs41&repo=Agentic-AI-Chatbot&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/surajs41/Market-Pulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=surajs41&repo=Market-Pulse&theme=radical&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=surajs41&repo=FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals&theme=radical&hide_border=true" />
-</a>
+**🤖 [Cortex – Agentic AI Chatbot](https://github.com/surajs41/Agentic-AI-Chatbot)**
+<br/><br/>
+Agentic chatbot built on **LangGraph** + **Groq Llama 3.3 70B**, with **pgVector**, **ChromaDB**, and **FastEmbed** for retrieval.
+<br/><br/>
+`LangGraph` `Groq` `pgVector` `ChromaDB`
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-- 🤖 **[Cortex – Agentic AI Chatbot](https://github.com/surajs41/Agentic-AI-Chatbot)** — Agentic chatbot built on **LangGraph** + **Groq Llama 3.3 70B**, with **pgVector**, **ChromaDB**, and **FastEmbed** for retrieval.
-- 📈 **[MarketPulse](https://github.com/surajs41/Market-Pulse)** — Real-time financial data pipeline: **Kafka/Redpanda** streaming, **Airflow** orchestration, **dbt** transforms, **XGBoost/LSTM** forecasting, served via **FastAPI** + **Streamlit**.
-- 🕵️ **[FaceTrace](https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals)** — AI-based face detection & identification system using **OpenCV Haar-cascade**, **YOLOv3**, and **TensorFlow** mask detection with a **Tkinter** GUI and **SQLite** backend.
+**📈 [MarketPulse](https://github.com/surajs41/Market-Pulse)**
+<br/><br/>
+Real-time financial data pipeline: **Kafka/Redpanda** streaming, **Airflow** orchestration, **dbt** transforms, **XGBoost/LSTM** forecasting, served via **FastAPI** + **Streamlit**.
+<br/><br/>
+`Kafka` `Airflow` `dbt` `FastAPI`
+
+</td>
+<td width="33%" valign="top">
+
+**🕵️ [FaceTrace](https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals)**
+<br/><br/>
+AI-based face detection & identification system using **OpenCV Haar-cascade**, **YOLOv3**, and **TensorFlow** mask detection with a **Tkinter** GUI and **SQLite** backend.
+<br/><br/>
+`OpenCV` `YOLOv3` `TensorFlow`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,14 +101,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajs41&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajs41&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajs41&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajs41&theme=redical&hide_border=true" width="90%"/>
+![Repos](https://img.shields.io/badge/dynamic/json?color=A970FF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajs41&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/surajs41?color=A970FF&label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/badge/dynamic/json?color=A970FF&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurajs41%2Frepos%3Fper_page%3D100&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=surajs41&color=a970ff&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+> 📌 *Note: the classic GitHub-stats widgets (pinned-repo cards, streak stats, activity graph) rely on a shared public Vercel/Heroku instance that's frequently rate-limited or paused — if you want those back, self-host `github-readme-stats` on your own free Vercel account for a reliable version.*
 
 ---
 
@@ -108,5 +121,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-portfolio-topaz.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Claude-A970FF?style=flat-square"/>
 
 </div>
