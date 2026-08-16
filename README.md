@@ -1,6 +1,10 @@
 <div align="center">
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Suraj%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20GenAI%20Data%20Operations%20|%20LLM%20and%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=AI+%2F+GenAI+Data+Operations+Associate;LLM+Evaluation+%7C+Prompt+Engineering;LangChain+%2B+LangGraph+Agentic+Workflows;Building+Real-World+Data+and+AI+Systems" alt="Typing SVG" /> <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Suraj%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20GenAI%20Data%20Operations%20|%20LLM%20and%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=AI+%2F+GenAI+Data+Operations+Associate;LLM+Evaluation+%7C+Prompt+Engineering;LangChain+%2B+LangGraph+Agentic+Workflows;Building+Real-World+Data+and+AI+Systems" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-portfolio-topaz.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-shedge-352327217)
@@ -116,5 +120,8 @@ AI-based face detection & identification system using **OpenCV Haar-cascade**, *
 [![Gmail](https://img.shields.io/badge/-surajshedge3315%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:surajshedge3315@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-portfolio-topaz.vercel.app/)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Claude-A970FF?style=flat-square"/>
 
 </div>
