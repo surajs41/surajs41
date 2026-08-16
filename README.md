@@ -120,8 +120,5 @@ AI-based face detection & identification system using **OpenCV Haar-cascade**, *
 [![Gmail](https://img.shields.io/badge/-surajshedge3315%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:surajshedge3315@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-portfolio-topaz.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-<br/>
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Claude-A970FF?style=flat-square"/>
 
 </div>
